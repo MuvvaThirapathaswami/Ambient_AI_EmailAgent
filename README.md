@@ -119,17 +119,17 @@ python main.py --demo 0
 
 ---
 
-##  Author
-
-Built by **MUVVA THIRAPATHA SWAMI**
-
----
-
 ##  Future Improvements
 
 * Gmail API integration
 * Deployment (Render / Vercel)
 * Advanced memory personalization
 * Multi-user support
+
+---
+
+##  Author
+
+Built by **MUVVA THIRAPATHA SWAMI**
 
 ---
